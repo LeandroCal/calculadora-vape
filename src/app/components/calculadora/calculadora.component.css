@@ -1,0 +1,9 @@
+.col-form-label {
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 575px) {
+    .col-form-label {
+        margin-bottom: 5px;
+    }
+}
